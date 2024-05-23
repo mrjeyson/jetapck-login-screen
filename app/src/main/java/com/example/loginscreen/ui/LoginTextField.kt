@@ -24,7 +24,6 @@ fun LoginTextField(
 ) {
 
     val uiColor = if (isSystemInDarkTheme()) Color.White else Black
-
     TextField(
         modifier = modifier,
         value = "",

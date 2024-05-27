@@ -35,6 +35,7 @@ fun LoginTextField(
                 color = uiColor
             )
         },
+
         colors = TextFieldDefaults.colors(
             unfocusedPlaceholderColor = MaterialTheme.colorScheme.unfocusedTextFieldText,
             focusedPlaceholderColor = MaterialTheme.colorScheme.focusedTextFieldText,

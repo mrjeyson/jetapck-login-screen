@@ -49,7 +49,6 @@ fun LoginTextField(
                     style = MaterialTheme.typography.labelMedium.copy(fontWeight = FontWeight.Medium),
                     color = uiColor
                 )
-
             }
         }
     )

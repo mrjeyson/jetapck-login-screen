@@ -40,7 +40,6 @@ fun LoginTextField(
             unfocusedContainerColor = MaterialTheme.colorScheme.TextFieldContainer,
             focusedContainerColor = MaterialTheme.colorScheme.TextFieldContainer
         ),
-
         trailingIcon = {
             TextButton(onClick = { /*TODO*/ }) {
                 Text(

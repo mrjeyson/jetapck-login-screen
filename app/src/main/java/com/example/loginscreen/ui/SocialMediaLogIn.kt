@@ -32,7 +32,6 @@ import com.example.loginscreen.ui.theme.dimens
 fun SocialMediaLogIn(
     modifier: Modifier = Modifier, @DrawableRes icon: Int, text: String, onClick: () -> Unit
 ) {
-
     Row(
         modifier = modifier
             .clip(RoundedCornerShape(4.dp))
@@ -55,7 +54,6 @@ fun SocialMediaLogIn(
             style = MaterialTheme.typography.labelMedium.copy(color = Color(0xFF64748B))
         )
     }
-
 }
 
 @SuppressLint("ModifierFactoryUnreferencedReceiver")

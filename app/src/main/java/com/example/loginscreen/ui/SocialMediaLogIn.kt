@@ -41,7 +41,6 @@ fun SocialMediaLogIn(
         horizontalArrangement = Arrangement.Center,
         verticalAlignment = Alignment.CenterVertically
     ) {
-
         Image(
             painter = painterResource(id = icon),
             contentDescription = null,

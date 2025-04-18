@@ -28,7 +28,6 @@ class MainActivity : ComponentActivity() {
 
 
 
-
         setContent {
             LoginScreenTheme {
                 LoginScreen()
